@@ -1,0 +1,34 @@
+# Compilados
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# Binários gerados
+sistema-de-farmacia
+farmacia-system
+/build/
+/bin/
+/dist/
+
+# Arquivos de debug
+*.log
+*.tmp
+
+# Sistemas Operacionais
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
